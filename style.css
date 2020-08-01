@@ -1,0 +1,73 @@
+body{
+    background-image: url(Images/lines_texture1095.jpg);
+    margin: 0;
+    padding: 0;
+    
+}
+
+.text{
+    width: 50%;
+    font-size: xx-large;
+}
+
+
+
+.heading{
+    text-align: center;
+    color: darksalmon;
+}
+
+
+
+.main{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+
+
+
+.additem{
+    height: 40px;
+    background: green;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+.deleteall{
+      height: 40px;
+    background-color: red;
+    color: aliceblue;
+}
+
+
+
+
+
+.btn{
+    background-color: deeppink;
+    color: aliceblue;
+    margin-left: 50%;
+    
+}
+
+
+
+
+
+
+
+.app{
+    font-size: x-large;
+    color: whitesmoke;
+    text-decoration-line: underline;
+    text-align-last: right: 30px;
+}
+
